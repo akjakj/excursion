@@ -1,0 +1,18 @@
+body {
+  font-family: verdana;
+  color: white;
+  background-color: black;
+
+
+}
+
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+
+.copyright {
+  text-align: right;
+}
